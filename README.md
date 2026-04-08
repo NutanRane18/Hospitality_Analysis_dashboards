@@ -60,11 +60,11 @@ This project focuses on analyzing hotel performance using data analytics and vis
 ## 📂 Project Structure
 ```
 📁 Hospitality-Analytics/
+│── 📁 Data
 │── 📊 Excel_Dashboard.xlsx
 │── 📊 PowerBI_Dashboard.pbix
 │── 📊 Tableau_Dashboard.twbx
 │── 📄 SQL_Queries.sql
-│── 📸 Dashboard_Screenshots
 │── README.md
 
 ```
